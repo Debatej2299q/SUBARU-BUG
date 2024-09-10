@@ -6,7 +6,7 @@ A simple but multifunctional WhatsApp bot.
 
 
 
-<h1 align="center">Guide For Panel Users</h1>
+<h1 align="center"> ⚡Guide For Panel Users⚡</h1>
 
 ## 🖥 Go to panel and upload this Sc.
 
@@ -46,9 +46,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 * [WhiskeySockets](https://github.com/WhiskeySockets)
 
-* [Mamang Adhiraj](https://github.com/adiwajshing)
 
-* [King Sam](https://github.com/Samue-l1)
 
 ## Contact Me
   
