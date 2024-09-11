@@ -2,7 +2,9 @@
 # 𝒜 𝓈𝒾𝓂𝓅𝓁𝑒 𝒷𝓊𝓉 𝓂𝓊𝓁𝓉𝒾𝒻𝓊𝓃𝒸𝓉𝒾❀𝓃𝒶𝓁 𝒲𝒽𝒶𝓉𝓈𝒜𝓅𝓅 𝒷🍪𝓉
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 # ⚡ BOT IS UNDER MAINTENANCE !!
-
+<p align="center">
+  <a href="https://github.com/Debatej2299q/SUBARU-BUG">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Heronrine%20Cybers%20(HC)-white&style=plastic">
 
 ## 💡 FOLLOW OUR CHANAL
 
@@ -34,10 +36,13 @@
 🦠| .👇👇
 ```
 # Instalasi
-## 🎀- Get Session
+## 🎀- Get Session...
 
 <a href="https://subarumd-3ea4809cee5a.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+## 🎀- Deployment Methods...
 
+<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<br>
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
 ## Heroku Buildpack
 ```bash
