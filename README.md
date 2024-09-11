@@ -59,8 +59,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ⚜️|**[`MR LUTHER`]**|
 
  <p align="center">  
- <a href="[https://telegra.ph/file/903e16f9effd8de11cc76.jpg](https://telegra.ph/file/903e16f9effd8de11cc76.jpg)">
-    <img alt="SUBARU MD OWNER" height="200" src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg">
+ <a href="[MR-LUTHER.jpg](MR-LUTHER.jpg)">
+    <img alt="SUBARU MD OWNER" height="200" src="MR-LUTHER.jpg">
  
 **[» Contact For](https://wa.me/+94719735716)**
 ㅤ
