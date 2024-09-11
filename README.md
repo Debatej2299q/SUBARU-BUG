@@ -47,8 +47,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 🤹‍♂️|**[`DEBATEJ`]**|
 
  <p align="center">  
- <a href="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
-    <img alt="SUBARU MD MD OWNER" height="200" src="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
+ <a href="Leon s_ Kennedy.jpg">
+    <img alt="SUBARU MD MD OWNER" height="200" src="Leon s_ Kennedy.jpg">
 
 **[» Contact For](https://wa.me/+916900223549)**
 ㅤ
