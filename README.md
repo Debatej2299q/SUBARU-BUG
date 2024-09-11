@@ -1,6 +1,7 @@
-# ⚡ SUBARU-BUG🍒
-A simple but multifunctional WhatsApp bot.
-# ⚡ BOT IS UNDER MAINTENANCE !!
+ㅤㅤㅤㅤㅤㅤㅤ# ⚡ SUBARU-BUG🍒
+ㅤㅤA simple but multifunctional WhatsApp bot.
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+ㅤㅤㅤ# ⚡ BOT IS UNDER MAINTENANCE !!
 
 
 
