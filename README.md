@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=⚡ +ＳＵＢＡＲＵ+ＭＤ" alt="Typing SVG" /></a>
 # 𝒜 𝓈𝒾𝓂𝓅𝓁𝑒 𝒷𝓊𝓉 𝓂𝓊𝓁𝓉𝒾𝒻𝓊𝓃𝒸𝓉𝒾❀𝓃𝒶𝓁 𝒲𝒽𝒶𝓉𝓈𝒜𝓅𝓅 𝒷🍪𝓉
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-ㅤㅤㅤ# ⚡ BOT IS UNDER MAINTENANCE !!
-## 💡 FOLLOW OUR CHANAL
+# ⚡ BOT IS UNDER MAINTENANCE !!
+
 
 ## 💡 FOLLOW OUR CHANAL
 
@@ -34,7 +34,10 @@
 🦠| .👇👇
 ```
 # Instalasi
-* [Pair code](https://replit.com/@pesguru02/Classic-Pairing)
+## 🎀- Get Session
+
+<a href="https://subarumd-3ea4809cee5a.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
 ## Heroku Buildpack
 ```bash
