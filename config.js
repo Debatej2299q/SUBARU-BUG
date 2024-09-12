@@ -1,7 +1,7 @@
 /*
 
-# Base By Zynxzoo
-# Owner ? : ZynXzooo 
+# Base By DEBATEJxSUBARU
+# Owner ? : DeBATEj
 !- do not delete this credit
 
 RESMI DARI ABEXZMODS
@@ -15,21 +15,21 @@ JIKA MELANGGAR LARANGAN YANG DI BERIKAN ZYNXZOO, GAPAPA SI SOALNYA KODENYA DI GW
 
 SOSMED
 
-YOUTUBE : https://youtube.com/@zynxzooo 
+YOUTUBE : 
 CH TELE : https://t.me/ZynXzooo
 CH WA : https://whatsapp.com/channel/0029ValRq0ULikgDaQ5Y0c0L
 
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['6285609833744'] // isi nomor lu
-global.ownMain = '6285609833744' // isi nomor lu
-global.NamaOwner = 'Zʏɴxᴢᴏᴏ' //gausah diganti
+global.owner = ['918761888106'] // ownner number 
+global.ownMain = '918761888106' // isi nomor lu
+global.NamaOwner = 'DEBATEj' //owner name
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'ᴢʏɴxᴢᴏᴏXᴄʀᴀsʜ' //ganti aj klo mau
-global.author = 'zynxzo' //ganti aj klo mau
-global.packname = 'zynxzo' //ganti aj klo mau
+global.namabot = 'ᴢʏɴxᴢᴏᴏXᴄʀᴀsʜ' // name of your bot
+global.author = 'zynxzo' // author name
+global.packname = 'zynxzo' // packname
 global.url = 'https://youtube.com/@abexzmods' //gausah diganti
 global.urlWa = 'https://wa.me/6285609833744'
 global.url1 = 'https://youtube.com/@abexzmods' //gausah diganti
