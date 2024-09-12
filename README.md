@@ -10,7 +10,7 @@
   <a href="https://github.com/Debatej2299q/SUBARU-BUG">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Heronrine%20Cybers%20(HC)-white&style=plastic">
 
-## 💡 FOLLOW OUR CHANAL
+## 💡 FOLLOW OUR CHANNEL 
 
 <a href="https://chat.whatsapp.com/LZ59qGEanFOIdgCLpBjsTk"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel[SUBARU-MD" width="350"></a>
 
