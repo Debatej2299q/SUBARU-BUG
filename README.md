@@ -76,6 +76,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## Special Thanks to
 
 * [WhiskeySockets](https://github.com/WhiskeySockets)
+
+
 <h1 align="center"> ⚡Guide For Panel Users⚡</h1>
 
 ## 🖥 Go to panel and upload this Sc.
@@ -86,6 +88,23 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
  🖨 Then go to the console and press Start, and you will get a Qr code that will be linked to WhatsApp
 
+
+## `⚡For Termux/Ssh/Ubuntu⚡`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Debatej2299q/SUBARU-BUG
+cd SUBARU-BUG
+npm start
+```
 <h2 align="center">Features</h2>
 
 ## How to deploy to heroku
