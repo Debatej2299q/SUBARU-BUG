@@ -40,35 +40,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ----------
 
-## **`💃 SUBARU MD BOT OWNERS,`**
-ㅤ
 
-
-🤹‍♂️|**[`DEBATEJ`]**|
-
- <p align="center">  
- <a href="Leon s_ Kennedy.jpg">
-    <img alt="SUBARU MD MD OWNER" height="200" src="Leon s_ Kennedy.jpg">
-
-**[» Contact For](https://wa.me/+916900223549)**
-ㅤ
- ㅤ
- ---
- ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-----------
-⚜️|**[`MR SUBARU`]**|
-
- <p align="center">  
- <a href="[MR-LUTHER.jpg](MR-LUTHER.jpg)">
-    <img alt="SUBARU MD OWNER" height="200" src="MR-LUTHER.jpg">
- 
-**[» Contact For](https://wa.me/+919332425327)**
-ㅤ
-ㅤㅤㅤ
----
-
-﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-----------
 
   
 
@@ -121,6 +93,37 @@ npm start
 🦠| .Add the Build packs Below 
 🦠| .👇👇
 ```
+---
+
+﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+----------
+
+
+## **`💃 SUBARU MD BOT OWNERS,`**
+ㅤ
+
+
+🤹‍♂️|**[`DEBATEJ`]**|
+
+ <p align="center">  
+ <a href="Leon s_ Kennedy.jpg">
+    <img alt="SUBARU MD MD OWNER" height="200" src="Leon s_ Kennedy.jpg">
+
+**[» Contact For](https://wa.me/+916900223549)**
+ㅤ
+ ㅤ
+ ---
+ ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+----------
+⚜️|**[`MR SUBARU`]**|
+
+ <p align="center">  
+ <a href="[MR-LUTHER.jpg](MR-LUTHER.jpg)">
+    <img alt="SUBARU MD OWNER" height="200" src="MR-LUTHER.jpg">
+ 
+**[» Contact For](https://wa.me/+919332425327)**
+ㅤ
+ㅤㅤㅤ
 ---
 
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
