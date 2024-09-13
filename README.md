@@ -76,6 +76,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 * [WhiskeySockets](https://github.com/WhiskeySockets)
 
+---
+
+﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+----------
 
 
 <h1 align="center"> ⚡Guide For Panel Users⚡</h1>
