@@ -71,11 +71,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ----------
 
   
-* [Telegram](@k_i_n_g_s_a_m)
 
 ## Special Thanks to
 
 * [WhiskeySockets](https://github.com/WhiskeySockets)
+
 
 
 <h1 align="center"> ⚡Guide For Panel Users⚡</h1>
@@ -117,3 +117,7 @@ npm start
 🦠| .Add the Build packs Below 
 🦠| .👇👇
 ```
+---
+
+﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+----------
