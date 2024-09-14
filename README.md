@@ -44,9 +44,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
   
 
-## Special Thanks to
 
-* [WhiskeySockets](https://github.com/WhiskeySockets)
 
 ---
 
@@ -54,7 +52,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ----------
 
 
-<h1 align="center"> ⚡Guide For Panel Users⚡</h1>
+<h2 align="center"> ⚡Guide For Panel Users⚡</h2>
 
 ## 🖥 Go to panel and upload this Sc.
 
