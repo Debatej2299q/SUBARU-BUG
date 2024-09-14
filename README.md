@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=00d5ff&width=435&lines=⚡ +SUBARU+BUG" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=00d5ff&width=435&lines=⚡+SUBARU+BUG+by+TP-STUDIO" alt="Typing SVG" /></a>
 # 𝒜 𝓈𝒾𝓂𝓅𝓁𝑒 𝒷𝓊𝓉 𝓂𝓊𝓁𝓉𝒾𝒻𝓊𝓃𝒸𝓉𝒾❀𝓃𝒶𝓁 𝒲𝒽𝒶𝓉𝓈𝒜𝓅𝓅 𝒷🍪𝓉
 <p align="center">
 <img src="./SUBARU-BUG.jpg" height="600" width="600">
