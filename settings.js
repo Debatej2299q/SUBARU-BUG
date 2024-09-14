@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "918761888106"
+global.ownernomer = "918761888106,919614477116"
 global.ownername = "TP STUDIO"
 global.ytname = "YT: TP-STUDIO"
 global.socialm = "GitHub: Debatej2299q"
@@ -57,7 +57,7 @@ global.mess = {
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
+    wait: 'SUBARU-BUG Is In process... ',    
     error: 'Error!',
 }
 
