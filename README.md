@@ -17,7 +17,7 @@
 
 # 🎀Fork the repo
     
-<a href='https://github.com/Astropeda/Asta-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black' width="200"/></a>
+<a href='https://github.com/Debatej2299q/SUBARU-BUG/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue' width="200"/></a>
 
 
 
