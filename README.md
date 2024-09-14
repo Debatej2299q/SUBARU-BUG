@@ -8,26 +8,24 @@
 
 <p align="center">
   <a href="https://github.com/Debatej2299q/SUBARU-BUG">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Heronrine%20Cybers%20(HC)-white&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-TP%20STUDIO%20(TPS)-white&style=plastic" width="200">
 
 ## 💡 FOLLOW OUR CHANNEL 
 
 <a href="https://chat.whatsapp.com/LZ59qGEanFOIdgCLpBjsTk"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel[SUBARU-MD" width="350"></a>
 
 
+# 🎀Fork the repo
+    
+<a href='https://github.com/Astropeda/Asta-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black' width="200"/></a>
 
 
 
-# Instalasi
-## 🎀- Get Session...
-
-<a href="https://replit.com/@DarkYasiyaofc/FORZEN-MD-V2?v=1"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
-<a href="https://forzen-md-qr-bb8466fecf86.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION 2" width="200"></a>
 ## 🎀- Deployment Methods...
 
 <a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
-* [Heroku](  https://heroku.com/deploy?template=https://github.com/Samue-l1/Samue-l1)
+
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
