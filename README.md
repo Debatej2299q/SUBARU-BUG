@@ -36,17 +36,16 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-----------
 
 
 
   
-
+```bash
 Listening to: SUBARU-BUG 🙃
 01:43 ━━━━●───── 03:50
 ⇆ㅤ ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻﻿
 ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▮▮▮▮
-
+```
 
 
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
