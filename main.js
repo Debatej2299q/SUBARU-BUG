@@ -1,4 +1,4 @@
-require('./settings')
+require('./settings.js')
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
