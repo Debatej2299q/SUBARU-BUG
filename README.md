@@ -79,6 +79,7 @@ pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Debatej2299q/SUBARU-BUG
 cd SUBARU-BUG
+yarn install
 npm start
 ```
 <h2 align="center">Features</h2>
@@ -107,7 +108,7 @@ npm start
 
  <p align="center">  
  <a href="Leon s_ Kennedy.jpg">
-    <img alt="SUBARU MD MD OWNER" height="200" src="Leon s_ Kennedy.jpg">
+    <img alt="SUBARU MD OWNER" height="200" src="Leon s_ Kennedy.jpg">
 
 **[» Contact For](https://wa.me/+918761888106)**
 ㅤ
